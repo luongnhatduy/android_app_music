@@ -4,12 +4,20 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
+    <ImageView
+        android:id="@+id/img_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="5dp"
+        />
     <TextView
         android:id="@+id/tv_animal_type"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20sp"
         android:textColor="#000000"
-        android:padding="20dp"/>
+        android:paddingHorizontal="5dp"
+        android:paddingVertical="10dp"
+        />
 
 </LinearLayout>

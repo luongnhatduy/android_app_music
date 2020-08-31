@@ -27,6 +27,6 @@
 <!--        android:id="@+id/navigation_play_music"-->
 <!--        android:name="com.example.android_app.ui.playMusic.PlayMusic"-->
 <!--        android:label="@string/title_play_music"-->
-<!--        tools:layout="@layout/play_music" />-->
+<!--        tools:layout="@layout/movie_detail" />-->
 
 </navigation>
