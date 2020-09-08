@@ -14,5 +14,8 @@
         android:id="@+id/navigation_movie_detail"
         android:name="com.example.android_app.ui.movieDetail.MovieDetail"
         tools:layout="@layout/movie_detail" />
-
+    <fragment
+        android:id="@+id/navigation_web_view"
+        android:name="com.example.android_app.ui.webview.WebViewFragment"
+        tools:layout="@layout/web_view" />
 </navigation>
